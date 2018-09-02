@@ -1,0 +1,16 @@
+﻿http_call.py Output:
+Response ID: aa228958-4ac2-414e-a80c-c82343316dd1       Response Time: Sun, 02 Sep 2018 20:34:38 GMT
+Response ID: 56582e2a-b969-4c46-9674-5e0f34466893       Response Time: Sun, 02 Sep 2018 20:34:40 GMT
+Response ID: d6a81a11-d8b8-49f7-adf0-e5c21ea6d87e       Response Time: Sun, 02 Sep 2018 20:34:42 GMT
+
+
+
+
+
+
+
+http_async_call.py Output:
+Response ID: e7568fdf-64ed-44f2-adfd-fbfd71e0e5d5       Response Time: Sun, 02 Sep 2018 20:38:00 GMT
+Response ID: cd8a3844-b76c-476d-8722-fa143e048220       Response Time: Sun, 02 Sep 2018 20:38:00 GMT
+Response ID: 4368697c-65e6-407c-9625-b08b94ee42e1       Response Time: Sun, 02 Sep 2018 20:38:00 GMT
+
